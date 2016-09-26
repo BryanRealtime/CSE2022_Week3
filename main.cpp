@@ -5,8 +5,8 @@
 #include <chrono>         // std::chrono::seconds
 #include "math.h"
 
-const int width = 640;
-const int height = 480;
+const int width = 1024;
+const int height = 768;
 
 float* pixels = new float[width*height * 3];
 
